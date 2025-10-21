@@ -1,0 +1,86 @@
+body
+{
+
+}
+
+.top
+{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #000;
+    background-color: #000;
+    color: #fff;
+}
+
+.logo
+{
+    width: 50%;
+    height: 120px;
+}
+
+/* .first
+{
+    border: none;
+}
+
+.first:hover
+{
+    background-color: #00A859;
+} */
+
+.nav
+{
+    border: none;
+    background-color: #00A859;
+}
+
+.link
+{
+    color: #fff;
+    text-transform: none;
+    transition: opacity 0.3s ease;
+    text-decoration: underline;
+}
+
+.text
+{
+    color: #00A859;
+}
+
+/* .nav:hover .link{
+    opacity: 0.2;
+}
+
+.nav .link:hover{
+    opacity: 1;
+} */
+
+.img
+{
+    width: 100%;
+    height: 350px;
+}
+
+.boss
+{
+    background-color: #00A859;
+}
+
+.link:hover{
+    color: #000;
+}
+
+button
+{
+    width: 90%;
+    height: 30px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
+
+button:hover{
+    color: #000;
+    background-color: #00A859;
+    border-radius: 20%;
+}
